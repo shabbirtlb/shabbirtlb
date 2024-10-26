@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbirtlb&label=Profile%20views&color=0e75b6&style=flat" alt="shabbirtlb" /> </p>
 
-- 🔭 I’m currently working on **Chemical Drug Molecule Generation using GAN**
+- 🔭 I’m currently working on **Fine Tuned LLM for Test Case Generation using Business Requirements**
 
-- 🌱 I’m currently learning **Angular JS , Springboot , Tailwind CSS**
+- 🌱 I’m currently learning **REACTJS , NodeJS , NextJS**
 
 - 📫 How to reach me **shabbirtlb2002@gmail.com**
 
